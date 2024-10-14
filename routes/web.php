@@ -2,8 +2,21 @@
 
 use Illuminate\Support\Facades\Route;
 
-Route::get('/welcome', function () {
+
+Route::get('/', function () {
     return view('welcome');
+});
+
+Route::get('/genText', function () {
+    return view('genText');
+});
+
+Route::get('/genImg', function () {
+    return view('genImg');
+});
+
+Route::get('/srcInfo', function () {
+    return view('srcInfo');
 });
 
 Route::get('/catalogo1', function () {

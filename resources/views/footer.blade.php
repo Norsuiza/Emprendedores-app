@@ -19,7 +19,7 @@
 <footer class="bg-light text-center text-lg-start mt-auto">
     <div class="container">
         <div class="text-center">
-            Desarrollado por: <a href="https://nama.codes" target="_blank">NAMA.codes</a>
+            Desarrollado por: <a href="https://github.com/Norsuiza/Emprendedores-app" target="_blank">NAMA.codes</a>
         </div>
     </div>
 </footer>
