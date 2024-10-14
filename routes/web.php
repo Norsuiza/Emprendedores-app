@@ -20,21 +20,21 @@ Route::get('/srcInfo', function () {
 });
 
 Route::get('/catalogo1', function () {
-    return view('Catalogo1');
+    return view('catalogo1');
 });
 
 Route::get('/catalogo2', function () {
-    return view('Catalogo2');
+    return view('catalogo2');
 });
 
 Route::get('/catalogo3', function () {
-    return view('Catalogo3');
+    return view('catalogo3');
 });
 
 Route::get('/herramienta1', function () {
-    return view('Herramienta1');
+    return view('herramienta1');
 });
 
 Route::get('/herramienta2', function () {
-    return view('Herramienta2');
+    return view('herramienta2');
 });
