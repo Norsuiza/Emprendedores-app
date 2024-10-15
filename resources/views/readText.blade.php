@@ -14,7 +14,7 @@
 
 <div class="container mt-5">
 
-    <h1>Lectoresd de Texto!</h1>
+    <h1>Lectores de Texto!</h1>
     <br>
     <div id="carouselExample" class="carousel slide">
         <div class="carousel-inner">
