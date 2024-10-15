@@ -8,11 +8,13 @@
 </head>
 <body>
 
-@include('header')
+@include('components.header')
 
 <div class="container mt-5">
     <h1>CAT3!</h1>
 </div>
+
+@include('components.footer')
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>

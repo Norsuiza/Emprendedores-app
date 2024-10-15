@@ -12,7 +12,7 @@
 
 <div class="container mt-5">
 
-    <h1>Generadores de Imagenes!</h1>
+    <h1>Mas Herramientas!</h1>
     <br>
     <div id="carouselExample" class="carousel slide">
         <div class="carousel-inner">
@@ -35,6 +35,7 @@
             <span class="visually-hidden">Next</span>
         </button>
     </div>
+
 
 </div>
 

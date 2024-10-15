@@ -38,3 +38,15 @@ Route::get('/herramienta1', function () {
 Route::get('/herramienta2', function () {
     return view('herramienta2');
 });
+
+Route::get('/others', function () {
+    return view('others');
+});
+
+Route::get('/readText', function () {
+    return view('readText');
+});
+
+Route::get('/genIcon', function () {
+    return view('genIcon');
+});
