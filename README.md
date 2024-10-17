@@ -46,7 +46,7 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE par
 A la comunidad de desarrolladores de IA por su constante innovación.
 A los colaboradores y usuarios que han probado y mejorado ToolBelt AI.
 
-## Instalacion
+# Instalacion
 
 > [!IMPORTANT]
 > Es necesaria la instalacion de las dependencias para el correcto despliegue del proyecto.
@@ -91,7 +91,7 @@ Pedir la App-Key a otro contribuidor para tener acceso completo y ajustar el pro
 Abrir el visualizador de la pagina web desde consola de pryecto
 
 ```/Emprendedores-app
-artisan serve
+php artisan serve
 ```
 (deberá de observar un puerto local host, hacer click derecho en el link y abrirlo)
 En caso de cualquier fallo, avisar a los contribuidores.
