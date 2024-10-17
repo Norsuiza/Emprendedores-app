@@ -67,15 +67,22 @@ Hacer la instalacion de Composer >= 2.7.7
 
 Verificar en consola la correcta instalacion de las dos aplicaciones
 
-\\\ php -v \\\
-
-\\\ composer -v \\\
+```Consola 
+php -v
+```
+```Consola
+composer -v 
+```
 
 Abrir el compilador de codigo y ejecutar los siguientes comandos en la linea de consola dentro del proyecto.
 
-\\\ npm install \\\
+```/Emprendedores-app
+npm install
+```
 
-\\\npm run build \\\
+```/Emprendedores-app
+npm run build 
+```
 
 Ajustar el archivo .env.example eliminando de su nombre el apartado ".example" dejando asi el nombre del archivo como ".env"
 
@@ -83,10 +90,10 @@ Pedir la App-Key a otro contribuidor para tener acceso completo y ajustar el pro
 
 Abrir el visualizador de la pagina web desde consola de pryecto
 
-\\\ php artisan serve \\\
-
+```/Emprendedores-app
+artisan serve
+```
 (deberá de observar un puerto local host, hacer click derecho en el link y abrirlo)
-
 En caso de cualquier fallo, avisar a los contribuidores.
 
 > [!CAUTION]
